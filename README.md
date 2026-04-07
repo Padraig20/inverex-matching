@@ -1,5 +1,8 @@
 # Inverex Matching
 
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
+
 ## Text-Based Matching (NLP)
 
 The implementation for this pipeline is taken and adapted from [patient-trial-matching](https://github.com/ProjectDossier/patient-trial-matching) and [clinical-trials](https://github.com/WojciechKusa/clinical-trials).
