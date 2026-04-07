@@ -1,0 +1,6 @@
+src/nlp/data
+src/nlp/models
+
+__pycache__
+uv.lock
+data/clinical_trials
